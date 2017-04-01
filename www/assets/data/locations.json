@@ -1,0 +1,288 @@
+{
+  "locations": [
+
+    {
+      "title": "Musée National de L'Orangerie des Tuileries",
+      "latitude": 2.323733,
+      "longitude": 48.862968
+    },
+    {
+      "title": "Musée de l'Assistance Publique - Hôpitaux de Paris",
+      "latitude": 48.838806,
+      "longitude": 42.356007
+    },
+    {
+      "title": "Musée de l'Homme (Muséum National d'Histoire Naturelle)",
+      "latitude": 2.282278,
+      "longitude": 48.862507
+    },
+    {
+      "title": "Musée Zadkine",
+      "latitude": 48.843177,
+      "longitude": 2.333969
+    },
+    {
+      "title": "Etablissement Public du Musée d'Orsay",
+      "latitude": 48.859754,
+      "longitude": 2.325917
+    },
+    {
+      "title": "Musée du Général Leclerc de Hauteclocque et de la Libération de Paris - Musée Jean Moulin",
+      "latitude": 48.840346,
+      "longitude": 2.319415
+    },
+    {
+      "title": "Musée d'Ennery",
+      "latitude": 48.871887,
+      "longitude": 2.282381
+    },
+    {
+      "title": "Musée National Picasso",
+      "latitude": 48.8597,
+      "longitude": 2.362644
+    },
+    {
+      "title": "Musée Cognacq-Jay, Musée du XVIIIe siècle de la ville de Paris",
+      "latitude": 48.858257,
+      "longitude": 2.361524
+    },
+    {
+      "title": "Galerie de Minéralogie et de Géologie (Muséum d'Histoire Naturelle)",
+      "latitude": 48.841491,
+      "longitude": 2.355989
+    },
+    {
+      "title": "Musée Nissim de Camondo (Les Arts Décoratifs)",
+      "latitude": 48.878849,
+      "longitude": 2.312855
+    },
+    {
+      "title": "Musée de Montmartre",
+      "latitude": 48.887709,
+      "longitude": 2.340577
+    },
+    {
+      "title": "Musée d'Art Moderne de la ville de Paris",
+      "latitude": 48.877878,
+      "longitude": 2.334383
+    },
+    {
+      "title": "Musée National Gustave Moreau",
+      "latitude": 48.877878,
+      "longitude": 2.334383
+    },
+    {
+      "title": "Musée de la Vie Romantique",
+      "latitude": 48.880899,
+      "longitude": 2.333278
+    },
+    {
+      "title": "Musées Arts Décoratifs Mode et du Textile",
+      "latitude": 48.8633218,
+      "longitude": 2.3333
+    },
+    {
+      "title": "Musée National de la Légion d'Honneur et des Ordres de Chevalerie",
+      "latitude": 48.860433,
+      "longitude": 2.324889
+    },
+    {
+      "title": "Musée National Eugène Delacroix",
+      "latitude": 48.854437,
+      "longitude": 2.335771
+    },
+    {
+      "title": "Les Catacombes",
+      "latitude": 48.833784,
+      "longitude": 2.331927
+    },
+    {
+      "title": "Etablissement Public du Musée des Arts Asiatiques Guimet",
+      "latitude": 48.865008,
+      "longitude": 2.293674
+    },
+    {
+      "title": "M.U.C.E.M. - Musée des ATP",
+      "latitude": 48.877026,
+      "longitude": 2.267791
+    },
+    {
+      "title": "Musée Bouchard",
+      "latitude": 48.853611,
+      "longitude": 2.265988
+    },
+    {
+      "title": "Grande Galerie de l'Evolution (Muséum National d'Histoire Naturelle)",
+      "latitude": 48.841491,
+      "longitude": 2.355989
+    },
+    {
+      "title": "Galerie de Botanique (Muséum National National d'Histoire Naturelle)",
+      "latitude": 48.8447245,
+      "longitude": 2.3591507
+    },
+    {
+      "title": "Musée d'Art et d'Histoire du Judaïsme",
+      "latitude": 48.86095,
+      "longitude": 2.347221
+    },
+    {
+      "title": "Crypte Archéologique du Parvis Notre-Dame",
+      "latitude": 48.853542,
+      "longitude": 2.347221
+    },
+    {
+      "title": "Établissement Public de la Porte Dorée - Musée de l’Histoire de l’Immigration",
+      "latitude": 48.834895,
+      "longitude": 2.408481
+    }
+  ,
+    {
+      "title": "Musée de la Chasse et de la Nature",
+      "latitude": 48.861337,
+      "longitude": 2.358433
+    },
+    {
+      "title": "Musée de la Publicité (Les Arts Décoratifs)",
+      "latitude": 48.863218,
+      "longitude": 2.3333
+    }
+  ,
+    {
+      "title": "Musée National du Sport",
+      "latitude": 48.829117,
+      "longitude": 2.37785
+    },
+    {
+      "title": "Musée Hébert",
+      "latitude": 48.847429,
+      "longitude": 2.322709
+    }
+  ,
+    {
+      "title": "Etablissement public de la Porte Dorée - Aquarium Tropical",
+      "latitude": 48.834895,
+      "longitude": 2.408481
+    },
+    {
+      "title": "Maison de Balzac",
+      "latitude": 48.85538,
+      "longitude": 2.280755
+    },
+    {
+      "title": "Musée de la Chasse et de la Nature",
+      "latitude": 48.861337,
+      "longitude": 2.35843
+    },
+    {
+      "title": "Musée Cognacq-Jay, Musée du XVIIIe siècle de la ville de Paris",
+      "latitude": 48.858257,
+      "longitude": 2.361524
+    },
+    {
+      "title": "Galerie de Minéralogie et de Géologie (Muséum d'Histoire Naturelle)",
+      "latitude": 48.841491,
+      "longitude": 2.355989
+    },
+    {
+      "title": "Crypte Archéologique du Parvis Notre-Dame",
+      "latitude": 48.853542,
+      "longitude": 2.347221
+    },
+    {
+      "title": "Musées Arts Décoratifs Mode et du Textile",
+      "latitude": 48.863218,
+      "longitude": 2.3333
+    },
+    {
+      "title": "Les Catacombes",
+      "latitude": 48.833784,
+      "longitude": 2.331927
+    },
+    {
+      "title": "Petit Palais, Musée des Beaux-Arts de la ville de Paris",
+      "latitude": 48.866088,
+      "longitude": 2.313814
+    },
+    {
+      "title": "Musée de la Vie Romantique",
+      "latitude": 48.85538,
+      "longitude": 2.333278
+    },
+    {
+      "title": "Musée National Auguste Rodin",
+      "latitude": 48.855868,
+      "longitude": 2.31598
+    },
+    {
+      "title": "Musée d'Ennery",
+      "latitude": 48.871887,
+      "longitude": 2.282381
+    },
+    {
+      "title": "Musée Carnavalet-Histoire de Paris",
+      "latitude": 48.857573,
+      "longitude": 2.363359
+    },
+    {
+      "title": "Musée de l'Armée",
+      "latitude": 48.858219,
+      "longitude": 2.312885
+    },
+    {
+      "title": "Musée National de la Marine",
+      "latitude": 48.862578,
+      "longitude": 2.287377
+    },
+    {
+      "title": "Petit Palais, Musée des Beaux-Arts de la ville de Paris",
+      "latitude": 48.866088,
+      "longitude": 2.313814
+    },
+    {
+      "title": "Musées des Arts Décoratifs",
+      "latitude": 48.863218,
+      "longitude": 2.3333
+    },
+    {
+      "title": "Maison de Victor Hugo",
+      "latitude": 2.366126,
+      "longitude": 48.854821
+    },
+    {
+      "title": "Musée National du Moyen Age-Thermes de Cluny",
+      "latitude": 48.850325,
+      "longitude": 2.34391
+    },
+    {
+      "title": "Galerie d’entomologie (Muséum national d'histoire naturelle)",
+      "latitude": 48.843835,
+      "longitude": 2.355201
+    },
+    {
+      "title": "Musée de la Musique",
+      "latitude": 48.889306,
+      "longitude": 2.393807
+    },
+    {
+      "title": "Palais Galliéra - Musée de la Mode de la ville de Paris",
+      "latitude": 48.865846,
+      "longitude": 2.296361
+    },
+    {
+      "title": "Palais Galliéra - Musée de la Mode de la ville de Paris",
+      "latitude": 48.865846,
+      "longitude": 2.296361
+    },
+    {
+      "title": "Palais Galliéra - Musée de la Mode de la ville de Paris",
+      "latitude": 48.865846,
+      "longitude": 2.296361
+    },
+    {
+      "title": "Palais Galliéra - Musée de la Mode de la ville de Paris",
+      "latitude": 48.865846,
+      "longitude": 2.296361
+    }
+  ]
+}
