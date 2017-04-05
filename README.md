@@ -1,6 +1,6 @@
 # Taieb Offline Map MeanStack ❤
 
-![TaiebAF](http://www.alfelah.com)
+(http://www.alfelah.com)
 
 Part of my Meanstack Project [leaflet](http://leafletjs.com/) integration in [ionic2](http://ionicframework.com)
 
