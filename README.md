@@ -11,8 +11,10 @@ Part of my Meanstack Project [leaflet](http://leafletjs.com/) integration in [io
 -Displaying multiple markers in Leaflet Offline Map ❤
 
 
--Calculating the distance between two points, and mapping that information into an array ❤
+-Calculating the distance between two points, and mapping that information into an array  ❤
 
+
+-Ordering data and displaying it in a list (ordered from lowest to highest)  ❤
 
 
 
@@ -20,5 +22,3 @@ Part of my Meanstack Project [leaflet](http://leafletjs.com/) integration in [io
 
 
 
-
--Ordering data and displaying it in a list (ordered from lowest to highest)

@@ -1,0 +1,29 @@
+<ion-header>
+
+    <ion-navbar color="secondary">
+        <ion-title>List</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+
+    <ion-list no-lines>
+
+        <ion-item *ngFor="let location of locations.data">
+
+           <ion-item (click)="viewLocation($event, location)">{{location.title}}</ion-item>
+            <ion-avatar item-left>
+                <ion-icon name="pin"></ion-icon>
+            </ion-avatar>
+       <a>Distance en Kilomètre :</a>
+          <!--   <h2>{{location.title}}</h2> -->
+            <p>{{location.distance*1.609}} Km</p>
+             <a>Temps de marche :</a>
+           <p>{{((location.distance*1.609)/3)*60}} Minutes</p> 
+        </ion-item>
+
+    </ion-list>
+
+</ion-content>
