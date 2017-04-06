@@ -20,5 +20,7 @@ Part of my Meanstack Project [leaflet](http://leafletjs.com/) integration in [io
 
 ### Todos
 
+A control to mesure distances :goberserk:
+
 
 
